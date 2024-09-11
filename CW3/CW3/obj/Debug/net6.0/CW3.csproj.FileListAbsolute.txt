@@ -1,0 +1,14 @@
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\CW3\CW3\bin\Debug\net6.0\CW3.exe
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\CW3\CW3\bin\Debug\net6.0\CW3.deps.json
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\CW3\CW3\bin\Debug\net6.0\CW3.runtimeconfig.json
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\CW3\CW3\bin\Debug\net6.0\CW3.dll
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\CW3\CW3\bin\Debug\net6.0\CW3.pdb
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\CW3\CW3\obj\Debug\net6.0\CW3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\CW3\CW3\obj\Debug\net6.0\CW3.AssemblyInfoInputs.cache
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\CW3\CW3\obj\Debug\net6.0\CW3.AssemblyInfo.cs
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\CW3\CW3\obj\Debug\net6.0\CW3.csproj.CoreCompileInputs.cache
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\CW3\CW3\obj\Debug\net6.0\CW3.dll
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\CW3\CW3\obj\Debug\net6.0\refint\CW3.dll
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\CW3\CW3\obj\Debug\net6.0\CW3.pdb
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\CW3\CW3\obj\Debug\net6.0\CW3.genruntimeconfig.cache
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\CW3\CW3\obj\Debug\net6.0\ref\CW3.dll
