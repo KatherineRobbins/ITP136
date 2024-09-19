@@ -72,6 +72,10 @@ namespace HW4
                         WriteLine("Your total is " + checkAdult.ToString("C"));
                     }
                     break;
+
+                default:
+                    WriteLine("Your entered an invalid option");
+                    break;
             }
               
                 
