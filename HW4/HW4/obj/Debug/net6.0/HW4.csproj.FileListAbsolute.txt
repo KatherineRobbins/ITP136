@@ -1,0 +1,14 @@
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\HW4\HW4\bin\Debug\net6.0\HW4.exe
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\HW4\HW4\bin\Debug\net6.0\HW4.deps.json
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\HW4\HW4\bin\Debug\net6.0\HW4.runtimeconfig.json
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\HW4\HW4\bin\Debug\net6.0\HW4.dll
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\HW4\HW4\bin\Debug\net6.0\HW4.pdb
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\HW4\HW4\obj\Debug\net6.0\HW4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\HW4\HW4\obj\Debug\net6.0\HW4.AssemblyInfoInputs.cache
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\HW4\HW4\obj\Debug\net6.0\HW4.AssemblyInfo.cs
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\HW4\HW4\obj\Debug\net6.0\HW4.csproj.CoreCompileInputs.cache
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\HW4\HW4\obj\Debug\net6.0\HW4.dll
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\HW4\HW4\obj\Debug\net6.0\refint\HW4.dll
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\HW4\HW4\obj\Debug\net6.0\HW4.pdb
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\HW4\HW4\obj\Debug\net6.0\HW4.genruntimeconfig.cache
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\HW4\HW4\obj\Debug\net6.0\ref\HW4.dll
