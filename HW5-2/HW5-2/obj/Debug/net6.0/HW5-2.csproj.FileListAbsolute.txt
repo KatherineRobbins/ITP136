@@ -1,0 +1,14 @@
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\HW5-2\HW5-2\obj\Debug\net6.0\HW5-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\HW5-2\HW5-2\obj\Debug\net6.0\HW5-2.AssemblyInfoInputs.cache
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\HW5-2\HW5-2\obj\Debug\net6.0\HW5-2.AssemblyInfo.cs
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\HW5-2\HW5-2\obj\Debug\net6.0\HW5-2.csproj.CoreCompileInputs.cache
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\HW5-2\HW5-2\bin\Debug\net6.0\HW5-2.exe
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\HW5-2\HW5-2\bin\Debug\net6.0\HW5-2.deps.json
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\HW5-2\HW5-2\bin\Debug\net6.0\HW5-2.runtimeconfig.json
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\HW5-2\HW5-2\bin\Debug\net6.0\HW5-2.dll
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\HW5-2\HW5-2\bin\Debug\net6.0\HW5-2.pdb
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\HW5-2\HW5-2\obj\Debug\net6.0\HW5-2.dll
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\HW5-2\HW5-2\obj\Debug\net6.0\refint\HW5-2.dll
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\HW5-2\HW5-2\obj\Debug\net6.0\HW5-2.pdb
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\HW5-2\HW5-2\obj\Debug\net6.0\HW5-2.genruntimeconfig.cache
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\HW5-2\HW5-2\obj\Debug\net6.0\ref\HW5-2.dll
