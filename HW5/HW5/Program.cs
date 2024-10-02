@@ -17,12 +17,22 @@ namespace HW5
             Console.WriteLine("Enter a number between 1-10");
             a = Convert.ToInt32(Console.ReadLine());
 
-            while ( a <= b)
+          
+
+            if (a > b)
             {
-                
-                
-                WriteLine(a);
+                WriteLine("You have entered a number larger than 10");
+            }
+            else
+            {
+                while (a <= b)
+                {
+
+
+                    WriteLine(a);
                     a++;
+
+                }
 
             }
 
