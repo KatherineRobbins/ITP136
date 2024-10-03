@@ -1,0 +1,14 @@
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\CW6\CW6\bin\Debug\net6.0\CW6.exe
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\CW6\CW6\bin\Debug\net6.0\CW6.deps.json
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\CW6\CW6\bin\Debug\net6.0\CW6.runtimeconfig.json
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\CW6\CW6\bin\Debug\net6.0\CW6.dll
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\CW6\CW6\bin\Debug\net6.0\CW6.pdb
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\CW6\CW6\obj\Debug\net6.0\CW6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\CW6\CW6\obj\Debug\net6.0\CW6.AssemblyInfoInputs.cache
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\CW6\CW6\obj\Debug\net6.0\CW6.AssemblyInfo.cs
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\CW6\CW6\obj\Debug\net6.0\CW6.csproj.CoreCompileInputs.cache
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\CW6\CW6\obj\Debug\net6.0\CW6.dll
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\CW6\CW6\obj\Debug\net6.0\refint\CW6.dll
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\CW6\CW6\obj\Debug\net6.0\CW6.pdb
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\CW6\CW6\obj\Debug\net6.0\CW6.genruntimeconfig.cache
+C:\Users\TeamR\OneDrive\Documents\Reynolds\itp136-repo\CW6\CW6\obj\Debug\net6.0\ref\CW6.dll
