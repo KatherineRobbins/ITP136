@@ -7,6 +7,17 @@ namespace HW6
         static void Main(string[] args)
         {
             welcomeMessage();
+
+            magicNumber();
+
+            findArea();
+
+            localTaxRate();
+
+
+            WriteLine("This is the end my friend");
+
+            ReadKey();
         }
 
         static void welcomeMessage()
@@ -24,5 +35,28 @@ namespace HW6
 
             return m;
         }
+
+
+        static int findArea()
+        {
+
+            int l, w;
+            int area = l * w;
+            WriteLine("Please enter the width of the area");
+            l = Convert.ToInt32(Console.ReadLine());
+            WriteLine("Please enter the lenght of the area");
+            w = Convert.ToInt32(Console.ReadLine());
+
+            WriteLine("The area is: " +  area);
+
+
+
+        }
+
+        static int localTaxRate()
+        {
+
+        }
+
     }
 }
