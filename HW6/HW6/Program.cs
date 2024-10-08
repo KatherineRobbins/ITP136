@@ -29,7 +29,7 @@ namespace HW6
 
         static void welcomeMessage()
         {
-            WriteLine("Welcome to my week 6 assignment where we work on methods!");
+            WriteLine("Welcome here you will find the area and then your tax rate!");
 
             ReadKey();
         }
@@ -78,7 +78,7 @@ namespace HW6
             int taxRate = 2;
             int total= (num1 * num2) * taxRate;
 
-            WriteLine("Your local tax rate is : " + total);
+            WriteLine("Your local tax rate is : " + total.ToString("C"));
             
         }
     }
