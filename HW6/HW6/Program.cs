@@ -6,13 +6,20 @@ namespace HW6
     {
         static void Main(string[] args)
         {
+            int a, b;
             welcomeMessage();
 
-            magicNumber();
+            for (int k = 0; k < 1; k++)
+            {
 
-            findArea();
+                a = askLength();
+                b = askWidth();
 
-            localTaxRate();
+                findArea(a, b);
+                findTaxRate(a, b);
+
+
+            }
 
 
             WriteLine("This is the end my friend");
@@ -37,26 +44,42 @@ namespace HW6
         }
 
 
-        static int findArea()
+        static int askLength()
         {
 
-            int l, w;
-            int area = l * w;
-            WriteLine("Please enter the width of the area");
-            l = Convert.ToInt32(Console.ReadLine());
-            WriteLine("Please enter the lenght of the area");
-            w = Convert.ToInt32(Console.ReadLine());
+            int x;
+            WriteLine("Please enter the length");
+            x = Convert.ToInt32(Console.ReadLine());
 
-            WriteLine("The area is: " +  area);
+            return x;
 
 
 
         }
 
-        static int localTaxRate()
+        static int askWidth()
         {
+            int x;
+            WriteLine("Please enter the width");
+            x = Convert.ToInt32(Console.ReadLine());
+            return x;
+        }
+
+        static void findArea(int num1, int num2)
+        {
+            int total = num1 * num2;
+
+               WriteLine("The area is : " + total);
 
         }
 
+        static void findTaxRate(int num1, int num2)
+        {
+            int taxRate = 2;
+            int total= (num1 * num2) * taxRate;
+
+            WriteLine("Your local tax rate is : " + total);
+            
+        }
     }
 }
