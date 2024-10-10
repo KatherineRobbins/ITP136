@@ -7,16 +7,21 @@ namespace HW6
         static void Main(string[] args)
         {
             int a, b;
+            int secretNumber = 4;
+            
             welcomeMessage();
 
             for (int k = 0; k < 1; k++)
             {
-
+                
                 a = askLength();
                 b = askWidth();
+               
 
+               
                 findArea(a, b);
                 findTaxRate(a, b);
+                magicNumber(secretNumber);
 
 
             }
@@ -29,19 +34,20 @@ namespace HW6
 
         static void welcomeMessage()
         {
-            WriteLine("Welcome here you will find the area and then your tax rate!");
+            WriteLine("Welcome here you will get a magic number, find the area and then your tax rate!");
 
             ReadKey();
         }
 
-        static int magicNumber()
+        static void magicNumber(int m)
         {
-            int m;
-            WriteLine("Please enter your magic number!");
-            m = Convert.ToInt32(Console.ReadLine());
+            int magicNumber = m * 2;
+            WriteLine("The magic number is : " + magicNumber);
+            
 
-            return m;
+            
         }
+
 
 
         static int askLength()
