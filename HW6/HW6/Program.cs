@@ -6,8 +6,9 @@ namespace HW6
     {
         static void Main(string[] args)
         {
-            int a, b;
+            int a, b,c;
             int secretNumber = 4;
+            
             
             welcomeMessage();
 
@@ -16,13 +17,14 @@ namespace HW6
                 
                 a = askLength();
                 b = askWidth();
+                c = localTaxRate();
                
 
                
                 findArea(a, b);
-                findTaxRate(a, b);
+                taxRate(c);
                 magicNumber(secretNumber);
-
+                
 
             }
 
@@ -34,18 +36,31 @@ namespace HW6
 
         static void welcomeMessage()
         {
-            WriteLine("Welcome here you will get a magic number, find the area and then your tax rate!");
+            WriteLine("Welcome!");
 
             ReadKey();
         }
 
         static void magicNumber(int m)
         {
-            int magicNumber = m * 2;
-            WriteLine("The magic number is : " + magicNumber);
+            int mNumber = m * 2;
+            WriteLine("The magic number is : " + mNumber);
             
 
             
+        }
+
+        static int localTaxRate()
+        {
+
+            int x;
+            WriteLine("Please enter the local tax rate");
+            x = Convert.ToInt32(Console.ReadLine());
+
+            return x;
+
+
+
         }
 
 
@@ -79,12 +94,11 @@ namespace HW6
 
         }
 
-        static void findTaxRate(int num1, int num2)
+        static void taxRate(int t)
         {
-            int taxRate = 2;
-            int total= (num1 * num2) * taxRate;
+            int taxRate = t;
 
-            WriteLine("Your local tax rate is : " + total.ToString("C"));
+            WriteLine("Your local tax rate is : " + taxRate);
             
         }
     }
