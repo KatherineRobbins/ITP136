@@ -12,15 +12,25 @@ namespace MIdTerm
             WriteLine("What is your first name?");
             string fname = Console.ReadLine();
 
-           WriteLine("What is your last name?");
+            WriteLine("What is your last name?");
             string lname = Console.ReadLine();
 
-           WriteLine("What is your address?");
+            WriteLine("What is your address?");
             string address = Console.ReadLine();
 
-           WriteLine("What is the date of travel, please enter in format month month day day year year 010124");
+            WriteLine("What is the date of travel, please enter in format month month day day year year 010124");
             int travelDate = Convert.ToInt32(Console.ReadLine());
+           
+           
+            while (travelDate < 10100 || travelDate > 123199)
+            {
+                
+                WriteLine("Date was invalid, please enter in format month month day day year year 010124");
+                travelDate = Convert.ToInt32(Console.ReadLine());
+            }
+               
 
+       
 
             int bag = askBag();
 
@@ -29,11 +39,11 @@ namespace MIdTerm
 
             
 
-            double total = (seat + bag);
+            double subTotal = (seat + bag);
             
-            double tax = total * 0.05;
+            double tax = subTotal * 0.05;
 
-            double subTotal = total + tax;
+            double total = subTotal + tax;
 
             //Receipt
 
@@ -55,7 +65,7 @@ namespace MIdTerm
             WriteLine("Bag Total: " + bag);
             WriteLine("Seat Total: " + seat);
             Console.ForegroundColor = ConsoleColor.Red;
-            WriteLine("Total: " + total.ToString("C"));
+            WriteLine("Subtotal: " + subTotal.ToString("C"));
             Console.ResetColor();
             WriteLine("********************");
             Console.ForegroundColor = ConsoleColor.Red;
@@ -63,7 +73,7 @@ namespace MIdTerm
             Console.ResetColor();
             WriteLine("********************");
             Console.ForegroundColor = ConsoleColor.Red;
-            WriteLine("Subtotal: " + subTotal.ToString("C"));
+            WriteLine("Total: " + total.ToString("C"));
             Console.ResetColor();
             WriteLine("********************");
             Console.ForegroundColor = ConsoleColor.Green;
@@ -95,8 +105,16 @@ namespace MIdTerm
                 case 2:
                     WriteLine("How many bags will you be checking for your travel?");
                     bagCount = Convert.ToInt32(Console.ReadLine());
-
-                    bagTotal = bagCount * 25;
+                    bagTotal = 0;
+                    
+                    // for loop
+                    for (int i = 0; i < bagCount; i++)
+                    {
+                        bagTotal += 25;
+                    }
+                    
+                    
+                    //bagTotal = bagCount * 25;
 
                     break;
 
@@ -126,7 +144,13 @@ namespace MIdTerm
                     WriteLine("How many seats do you need?");
                     seatCount = Convert.ToInt32(Console.ReadLine());
 
-                    seatTotal = seatCount * 30;
+                    seatTotal = 0;
+                    for ( int i = 0; i < seatCount; i++)
+                    {
+                        seatTotal += 30;
+                    }
+
+                    //seatTotal = seatCount * 30;
                     break;
 
                 case 2:
