@@ -27,11 +27,18 @@ namespace HW9
 
             }
 
+            for (int y = 0; y < carMake.Length; y++)
+            {
+                WriteLine("{0,10}{1,10}{2,10}", carMake[y], carModel[y], carCost[y]);
+            }
+
+
+
             double m = carCost.Max();
 
             int c = Array.IndexOf(carCost, m);
 
-            WriteLine("The most expensive car is: " + carMake[c] +" " + carModel[c] + " " +  carCost[c].ToString("C"));
+            WriteLine("The most expensive car is: " + carMake[c] + " " + carModel[c] + " " +  carCost[c].ToString("C"));
         }
     }
 }
