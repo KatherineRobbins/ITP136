@@ -1,0 +1,14 @@
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\CW10\CW10\bin\Debug\net6.0\CW10.exe
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\CW10\CW10\bin\Debug\net6.0\CW10.deps.json
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\CW10\CW10\bin\Debug\net6.0\CW10.runtimeconfig.json
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\CW10\CW10\bin\Debug\net6.0\CW10.dll
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\CW10\CW10\bin\Debug\net6.0\CW10.pdb
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\CW10\CW10\obj\Debug\net6.0\CW10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\CW10\CW10\obj\Debug\net6.0\CW10.AssemblyInfoInputs.cache
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\CW10\CW10\obj\Debug\net6.0\CW10.AssemblyInfo.cs
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\CW10\CW10\obj\Debug\net6.0\CW10.csproj.CoreCompileInputs.cache
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\CW10\CW10\obj\Debug\net6.0\CW10.dll
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\CW10\CW10\obj\Debug\net6.0\refint\CW10.dll
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\CW10\CW10\obj\Debug\net6.0\CW10.pdb
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\CW10\CW10\obj\Debug\net6.0\CW10.genruntimeconfig.cache
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\CW10\CW10\obj\Debug\net6.0\ref\CW10.dll
