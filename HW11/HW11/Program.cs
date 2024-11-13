@@ -1,44 +1,60 @@
-﻿using static System.Console;
+﻿using System.Linq.Expressions;
+using static System.Console;
 namespace HW11
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            double num1, num2;
-            double total = 0;
+            decimal num1, num2;
+            decimal total = 0;
 
-            int calculateOption;
+            decimal calculateOption;
 
 
             WriteLine("Enter first number:");
-            num1 = Convert.ToInt32(Console.ReadLine());
+            num1 = Convert.ToDecimal(Console.ReadLine());
 
             WriteLine("Enter second number:");
-            num2 = Convert.ToInt32(Console.ReadLine());
+            num2 = Convert.ToDecimal(Console.ReadLine());
 
 
             WriteLine("Calculation option: 1-Add 2-Multiply 3-Subtract 4-Divide");
-            calculateOption = Convert.ToInt32(Console.ReadLine());
+            calculateOption = Convert.ToDecimal(Console.ReadLine());
 
-            switch(calculateOption)
+
+            try
             {
-                case 1:
-                    total = num1 + num2;
+                switch (calculateOption)
+                {
+                    case 1:
+                        total = num1 + num2;
+                        WriteLine("Total: " + total);
                         break;
-                case 2:
-                    total = num1 * num2;
-                    break;
-                case 3:
-                    total = num1 - num2;
-                    break;
-                case 4:
-                    total = num1 / num2;
-                    break;
+                    case 2:
+                        total = num1 * num2;
+                        WriteLine("Total: " + total);
+                        break;
+                    case 3:
+                        total = num1 - num2;
+                        WriteLine("Total: " + total);
+                        break;
+                    case 4:
+                        total = num1 / num2;
+                        WriteLine("Total: " + total);
+                        break;
 
+                }
             }
 
-            return total;
+            catch(DivideByZeroException e)
+            {
+                WriteLine("error: " + e);
+            }
+           
         }
-    }
+
+            
+     }
+    
 }

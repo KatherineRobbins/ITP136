@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TeamR\\OneDrive\\Documents\\Reynolds\\itp136-repo\\HW2\\HW2\\HW2.csproj",
+      "projectUniqueName": "C:\\Users\\TeamR\\OneDrive\\Documents\\My Repos\\ITP136\\HW2\\HW2\\HW2.csproj",
       "projectName": "HW2",
-      "projectPath": "C:\\Users\\TeamR\\OneDrive\\Documents\\Reynolds\\itp136-repo\\HW2\\HW2\\HW2.csproj",
+      "projectPath": "C:\\Users\\TeamR\\OneDrive\\Documents\\My Repos\\ITP136\\HW2\\HW2\\HW2.csproj",
       "packagesPath": "C:\\Users\\TeamR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TeamR\\OneDrive\\Documents\\Reynolds\\itp136-repo\\HW2\\HW2\\obj\\",
+      "outputPath": "C:\\Users\\TeamR\\OneDrive\\Documents\\My Repos\\ITP136\\HW2\\HW2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TeamR\\AppData\\Roaming\\NuGet\\NuGet.Config",
