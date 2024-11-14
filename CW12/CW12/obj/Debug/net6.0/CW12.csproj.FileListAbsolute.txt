@@ -1,0 +1,14 @@
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\CW12\CW12\bin\Debug\net6.0\CW12.exe
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\CW12\CW12\bin\Debug\net6.0\CW12.deps.json
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\CW12\CW12\bin\Debug\net6.0\CW12.runtimeconfig.json
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\CW12\CW12\bin\Debug\net6.0\CW12.dll
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\CW12\CW12\bin\Debug\net6.0\CW12.pdb
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\CW12\CW12\obj\Debug\net6.0\CW12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\CW12\CW12\obj\Debug\net6.0\CW12.AssemblyInfoInputs.cache
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\CW12\CW12\obj\Debug\net6.0\CW12.AssemblyInfo.cs
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\CW12\CW12\obj\Debug\net6.0\CW12.csproj.CoreCompileInputs.cache
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\CW12\CW12\obj\Debug\net6.0\CW12.dll
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\CW12\CW12\obj\Debug\net6.0\refint\CW12.dll
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\CW12\CW12\obj\Debug\net6.0\CW12.pdb
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\CW12\CW12\obj\Debug\net6.0\CW12.genruntimeconfig.cache
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\CW12\CW12\obj\Debug\net6.0\ref\CW12.dll
