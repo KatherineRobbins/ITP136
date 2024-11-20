@@ -1,0 +1,14 @@
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\cw13\cw13\bin\Debug\net6.0\cw13.exe
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\cw13\cw13\bin\Debug\net6.0\cw13.deps.json
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\cw13\cw13\bin\Debug\net6.0\cw13.runtimeconfig.json
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\cw13\cw13\bin\Debug\net6.0\cw13.dll
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\cw13\cw13\bin\Debug\net6.0\cw13.pdb
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\cw13\cw13\obj\Debug\net6.0\cw13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\cw13\cw13\obj\Debug\net6.0\cw13.AssemblyInfoInputs.cache
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\cw13\cw13\obj\Debug\net6.0\cw13.AssemblyInfo.cs
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\cw13\cw13\obj\Debug\net6.0\cw13.csproj.CoreCompileInputs.cache
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\cw13\cw13\obj\Debug\net6.0\cw13.dll
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\cw13\cw13\obj\Debug\net6.0\refint\cw13.dll
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\cw13\cw13\obj\Debug\net6.0\cw13.pdb
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\cw13\cw13\obj\Debug\net6.0\cw13.genruntimeconfig.cache
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\cw13\cw13\obj\Debug\net6.0\ref\cw13.dll
