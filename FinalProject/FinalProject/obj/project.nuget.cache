@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MLSqHUBKVafkGZnfrwRcnXnpPO7Vb49pm3zlEKRhRrV5HYrwqAh7RD2dcHWL4DNKU2GM8feANIzFGZau7Nf3ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TeamR\\OneDrive\\Documents\\My Repos\\ITP136\\FinalProject\\FinalProject\\FinalProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TeamR\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

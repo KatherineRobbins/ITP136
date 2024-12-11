@@ -1,0 +1,17 @@
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfoInputs.cache
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfo.cs
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.exe
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.deps.json
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.runtimeconfig.json
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.dll
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.pdb
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.dll
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\FinalProject\FinalProject\obj\Debug\net6.0\refint\FinalProject.dll
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.pdb
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.genruntimeconfig.cache
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\FinalProject\FinalProject\obj\Debug\net6.0\ref\FinalProject.dll
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\FinalProject\FinalProject\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.AssemblyReference.cache
+C:\Users\TeamR\OneDrive\Documents\My Repos\ITP136\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CopyComplete
