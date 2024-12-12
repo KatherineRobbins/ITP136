@@ -6,96 +6,105 @@ namespace FinalProject
     {
         static void Main(string[] args)
         {
+            
+            // This Program is created to help Real Estate Agents collect and store information from clients and leads. 
 
-            // This Program is created to help Real Estate Agents collect and store clients and prospective clients information
+            int menuOption;
+            bool runMenu = true;
             Console.WriteLine("Welcome to your database.");
 
-            Menu();
-
-        }
-
-        static void Menu()
-        {
-
-            bool exitProgram = false;
-            while (!exitProgram) 
+            //run a menu after each action 
+            while (runMenu)
             {
+                WriteLine();
                 WriteLine("Select an option:");
-                WriteLine("1.Enter a Lead into your database");
-                WriteLine("2. View your leads");
-                WriteLine("3.Enter a Client into your database");
-                WriteLine("4. View your clients");
-                WriteLine("5.View Clients and Leads");
+                WriteLine("1.Enter a Lead");
+                WriteLine("2.View Leads");
+                WriteLine("3.Enter a Client");
+                WriteLine("4.View Clients");
+                WriteLine("5.View Clients & Leads");
+                WriteLine("6.Exit");
                 WriteLine("Enter the number corresponding to your choice.");
-                int choice = Convert.ToInt32(Console.ReadLine());
+                menuOption = Convert.ToInt32(ReadLine());
 
-                if (choice == 1)
+                if (menuOption < 1 || menuOption > 5 ) 
                 {
-                    EnterLead();
-                }
-                else if (choice == 2)
-                {
-                    Console.ForegroundColor = ConsoleColor.Yellow;
-                    WriteLine("\nViewing leads...");
-                    Console.ResetColor();
-                    Console.ForegroundColor = ConsoleColor.Blue;
-                    WriteLine("\nLeads:");
-                    Console.ResetColor();
-                    ViewData("person.csv");
+                    Console.WriteLine("\nOption must be between 1-6");
+                    Console.ReadKey();
+                    continue;
                 }
 
-                else if (choice == 3)
+                switch (menuOption)
                 {
-                    EnterClient();
+                    case 1:
+                        EnterLead();
+                        break;
+
+                    case 2:
+                        Console.ForegroundColor = ConsoleColor.Yellow;
+                        WriteLine("\nViewing Leads...");
+                        Console.ResetColor();
+                        Console.ForegroundColor = ConsoleColor.Blue;
+                        WriteLine("\nLeads:");
+                        Console.ResetColor();
+                        ViewData("person.csv");
+                        break;
+
+                    case 3:
+
+                        EnterClient();
+                        break;
+
+                    case 4:
+                        Console.ForegroundColor = ConsoleColor.Yellow;
+                        WriteLine("\nViewing Clients...");
+                        Console.ResetColor();
+                        Console.ForegroundColor = ConsoleColor.Green;
+                        WriteLine("\nClients:");
+                        Console.ResetColor();
+                        ViewData("client.csv");
+                        break;
+
+                    case 5:
+                        Console.ForegroundColor = ConsoleColor.Yellow;
+                        WriteLine("\nViewing Clients & Leads...");
+                        Console.ResetColor();
+                        Console.ForegroundColor = ConsoleColor.Green;
+                        WriteLine("\nClients:");
+                        Console.ResetColor();
+                        ViewData("client.csv");
+                        Console.ForegroundColor = ConsoleColor.Blue;
+                        WriteLine("\nLeads:");
+                        Console.ResetColor();
+                        ViewData("person.csv");
+                        break;
+
+                    default:
+                        WriteLine("\nYou have chosen an invalid choice");
+                        break;
+
                 }
 
-                else if (choice == 4)
+                if (menuOption != 6)
                 {
-                    Console.ForegroundColor = ConsoleColor.Yellow;
-                    WriteLine("\nViewing clients...");
-                    Console.ResetColor();
-                    Console.ForegroundColor = ConsoleColor.Green;
-                    WriteLine("\nClients:");
-                    Console.ResetColor();
-                    ViewData("client.csv");
-                   
-                }
-                else if (choice == 5)
-                {
-                    Console.ForegroundColor = ConsoleColor.Yellow;
-                    WriteLine("\nViewing clients and leads...");
-                    Console.ResetColor();
-                    Console.ForegroundColor = ConsoleColor.Green;
-                    WriteLine("\nClients:");
-                    Console.ResetColor();
-                    ViewData("client.csv");
-                    Console.ForegroundColor = ConsoleColor.Blue;
-                    WriteLine("\nLeads:");
-                    Console.ResetColor();
-                    ViewData("person.csv");
-                }
-                else
-                {
-                    WriteLine("\nYou have chosen an invalid choice");
-                }
-
-                if (!exitProgram)
-                {
-                    
-                    Console.ForegroundColor= ConsoleColor.Red;
+                    Console.ForegroundColor = ConsoleColor.Red;
                     WriteLine("\nDo you want to continue? (y/n)");
                     Console.ResetColor();
                     string response = Console.ReadLine().ToLower();
                     if (response != "y")
                     {
+                        Console.ForegroundColor = ConsoleColor.Red;
                         WriteLine("Exiting the program...");
-                        exitProgram = true;
+                        Console.ResetColor();
+                        runMenu = false;
                     }
                 }
             }
-           
+            
+            
+
         }
-        
+
 
         // view data in database
         static void ViewData(string fileName)
